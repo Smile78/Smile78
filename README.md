@@ -2,7 +2,7 @@
 - 👀 I’m interested in It (im think)
 - 🌱 I’m currently learning Java Python nd evrythng
 - 💞️ I’m looking to collaborate on ...ofkos )
-- 📫 How to reach me ... t9638383@ya.ru   phone(+7812)
+- 📫 How to reach me ... t9638383@ya.ru   
 
 <!---
 Smile78/Smile78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
